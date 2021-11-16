@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+}
+
+#cabecalho {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: white;
+    background-color: #210222;
+    text-align: center;
+}
+
+#corpo-da-pagina {
+    margin: 24px;
+    color: #21022d;
+    background-color: #e2d8e7;
+}
+
+#titulo-principal {
+    padding-top: 16px;
+    padding-left: 16px;
+    padding-bottom: 32px;
+
+}
+
+.tipos-de-vitaminas img {
+    width: 150px;
+    height: 150px;
+}
+
+#vitaminas {
+    padding-left: 80px;
+    padding-bottom: 16px;
+}
+
+.tipos-de-vitaminas {
+    padding-bottom: 32px;
+}
+
+#vitaminas-sem-lactose {
+    text-align: center;
+    padding-top: 32px;
+}
+
+#vitaminas-sem-lactose img {
+    width: 600px;
+    height: 300px;
+    padding-top: 32px;
+}
+
+#rodape {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+    color: white;
+    background-color: #21022d;    
+}
+
+#vitaminas-sem-lactose h2 {
+    margin-top: 0;
+}
+
+.tipos-de-vitaminas .especial {
+    margin-bottom: 0;
+}
